@@ -1,6 +1,1 @@
-ERROR:root:division by zero
-Traceback (most recent call last):
-  File "C:\Users\AYUSH\AppData\Local\Temp\ipykernel_20040\586548828.py", line 6, in <module>
-    print(a/b)
-          ~^~
-ZeroDivisionError: division by zero
+Ankit Dubey is a resident of Nagpur but his heart never left bihar , bihar is a notorious state where people can become either ias or criminals and women or no exception 
